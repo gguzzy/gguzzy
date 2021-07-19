@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gguzzy
+- 👀 I’m interested in data structures and algorithms, I'd rather call it programming! Mostly AI, Computer Vision and apps.
+- 🌱 I’m currently learning JS + React 
+- 💞️ I’m looking to collaborate on some app projects.
+- 📫 How to reach me IG: @gguzzy 
