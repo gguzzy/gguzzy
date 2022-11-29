@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gguzzy
-- 👀 I’m interested in mathematics, data structures and algorithms, I'd rather call it computer neural programming! Mostly into AI, Computer Vision and apps.
+- 👀 I’m interested in AI, Computer Vision and web development.
 - 🌱 I’m currently developing JS + React + Python ML applied projects!
 - 💞️ I’m looking to collaborate on some app projects.
-- 📫 How to reach me IG: @gguzzy or here ofc! 
+- 📫 How to reach me LinkedIn/IG/github @gguzzy 
