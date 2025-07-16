@@ -1,8 +1,8 @@
 # Hi there, I’m @gguzzy 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gguzzy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguzzy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gguzzy&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguzzy&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ## ⭐️ My Top-Starred Repositories
